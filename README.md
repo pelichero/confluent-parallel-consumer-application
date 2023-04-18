@@ -77,13 +77,11 @@ java -cp build/libs/confluent-parallel-consumer-application-standalone-0.0.1-all
 ### Results
 
 #### MultithreadedKafkaConsumer
-Progress  99% │█████████████████████████████████████████████████████████████████████████████████████████████████████████████▉│  9992/10000 (0:01:47 / 0:00:00)
-[main] INFO io.confluent.developer.MultithreadedKafkaConsumer - Total time to consume 10000 records: 107.66 seconds
+[main] INFO io.confluent.developer.MultithreadedKafkaConsumer - Total time to consume **10000** records: **107.66 seconds**
 
 
 #### ParallelConsumer
-Progress 100% │███████████████████████████████████████████████████████████████████████████████████████████████████████████████████│ 10000/10000 (0:00:01 / 0:00:00)
-[main] INFO io.confluent.developer.ParallelConsumerPerfTest - Time to consume 10000 records: 1.35 seconds
+[main] INFO io.confluent.developer.ParallelConsumerPerfTest - Time to consume **10000** records: **1.35 seconds**
 
 Have fun with it!
 
