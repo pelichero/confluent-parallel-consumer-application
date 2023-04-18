@@ -1,6 +1,12 @@
 # Compiled class file
 *.class
 
+# Intellij
+.idea/
+
+# VScode
+*.code-workspace
+
 # Log file
 *.log
 

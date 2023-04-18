@@ -1,0 +1,4 @@
+Go to Current
+All streams lead to Kafka
+Go to Kafka Summit
+Consume gently down the stream
